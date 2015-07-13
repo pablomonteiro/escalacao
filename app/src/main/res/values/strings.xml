@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">Escalacao</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Escalação</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="label_nome">Nome:</string>
+    <string name="label_apelido">Apelido:</string>
+    <string name="label_posicao">Posição:</string>
+    <string name="posicao">Posição:</string>
+
+    <string-array name="posicoes">
+        <item>Goleiro</item>
+        <item>Zagueiro</item>
+        <item>Meio Campo</item>
+        <item>Atacante</item>
+    </string-array>
+
 </resources>
